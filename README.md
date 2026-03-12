@@ -10,7 +10,7 @@ Sou apaixonado por entender como as coisas funcionam "debaixo do capô". Após c
 ### 🚀 Sobre mim
 - 🎓 **Formação:** Graduando em Engenharia de Computação (3º Semestre).
 - 📜 **Background:** Técnico em Desenvolvimento de Sistemas (Finalizado em 2025).
-- 🔭 **Foco atual:** Aprimorando lógica complexa e estrutura de dados com **C++**.
+- 🔭 **Foco atual:** Aprimorando lógica complexa e estrutura de dados com **C**.
 - 💡 **Habilidade:** Integração de sistemas Java com Banco de Dados SQL.
 
 ---
@@ -19,7 +19,7 @@ Sou apaixonado por entender como as coisas funcionam "debaixo do capô". Após c
 
 **Linguagens & Backend**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Web & Ferramentas**
