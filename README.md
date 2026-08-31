@@ -11,7 +11,7 @@ Sou apaixonado por entender como as coisas funcionam "debaixo do capô". Após c
 - 🎓 **Formação:** Graduando em Engenharia de Computação (3º Semestre).
 - 📜 **Background:** Técnico em Desenvolvimento de Sistemas (Finalizado em 2025).
 - 🔭 **Foco atual:** Aprimorando lógica complexa e estrutura de dados com **C**.
-- 💡 **Habilidade:** Integração de sistemas Java com Banco de Dados SQL.
+- 💡 **Habilidades:** No momento aprendendo habilidades conforme cada projeto que crio.
 
 ---
 
