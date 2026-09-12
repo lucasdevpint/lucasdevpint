@@ -2,9 +2,6 @@
 # Olá, sou o Lucas! 👋
 
 ### Estudante de Engenharia de Computação | Técnico em Desenvolvimento
-
-Sou apaixonado por entender como as coisas funcionam "debaixo do capô". Após concluir meu curso técnico com foco em desenvolvimento Fullstack e Banco de Dados, ingressei na Engenharia de Computação para aprofundar meus conhecimentos em algoritmos e performance.
-
 ---
 
 ### 🚀 Sobre mim
